@@ -1,6 +1,6 @@
-# [jQuery Scrollify](https://projects.lukehaas.me/scrollify)
+# [Scrollify on Wordpress](https://projects.lukehaas.me/scrollify)
 
-A jQuery plugin that assists scrolling and snaps to sections. Touch optimised.
+A Wordpress implementation of Luke Haas' Scrollify: A jQuery plugin that assists scrolling and snaps to sections.
 
 ## Demo
 
