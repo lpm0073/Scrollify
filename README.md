@@ -4,7 +4,7 @@ A Wordpress implementation of Luke Haas' Scrollify: A jQuery plugin that assists
 
 ## Demo
 
-[http://projects.lukehaas.me/scrollify](https://projects.lukehaas.me/scrollify).
+[http://fundx.lawrencemcdaniel.com/](http://fundx.lawrencemcdaniel.com/).
 
 ## Basic setup
 
