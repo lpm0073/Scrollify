@@ -22,4 +22,4 @@ A Wordpress implementation of Luke Haas' Scrollify: A jQuery plugin that assists
 
 ## Basic setup
 
-Follow this fork upstream to see the [README](https://github.com/lukehaas/Scrollify) of original github repository that Luke Haas manages for Scrollify.
+Follow this fork upstream to see the README of the original [Scrollify github repository](https://github.com/lukehaas/Scrollify).
